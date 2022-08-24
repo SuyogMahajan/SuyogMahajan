@@ -6,7 +6,6 @@
 
 </br>
 </br>
-</br>
 
 
 # About ME 💬 :
@@ -23,7 +22,6 @@
 - ✨ Music Addict 🎵🎶🎸
 - ✨ Trekking on Weekends 🏔️🏔️
 
-</br>
 </br>
 </br>
 
@@ -52,7 +50,6 @@
 </p>
 </br>
 </br>
-</br>
 
 
 
@@ -63,7 +60,7 @@
 
 
 
-<img hight="200" width="450" align="right" alt="GIF" src="https://user-images.githubusercontent.com/86179143/186434061-b2371a29-72c3-4303-90b2-b0c4424b3203.gif">
+<img hight="160" width="400" align="right" alt="GIF" src="https://user-images.githubusercontent.com/86179143/186434061-b2371a29-72c3-4303-90b2-b0c4424b3203.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
@@ -73,7 +70,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 <a href="https://www.linkedin.com/in/suyog-mahajan-b49205202/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
 </br>
 </br>
 </a>
@@ -86,11 +82,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  </p>
  
 
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 
