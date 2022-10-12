@@ -1,8 +1,9 @@
 <h1 align="center"> Hey, Suyog here !!👋>
 <h3 align="center">A passionate Open-Source Enthusiast</h3>
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src=https://user-images.githubusercontent.com/86179143/195395254-40cd641a-b667-4a1a-b2be-d6ad91c68c0b.gif width="500" height="320" />
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvirajjadhav1" /> </p> -->
+
 
 <p align="left"> <a href="https://twitter.com/SuyogMahajan16" target="blank"><img src="https://img.shields.io/twitter/follow/SuyogMahajan16?logo=twitter&style=for-the-badge" alt="SuyogMahajan16" /></a> </p>
 
