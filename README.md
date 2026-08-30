@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.goodreads.com/suyogmahajan" target="blank"><img align="center" src="https://github.com/SuyogMahajan/SuyogMahajan/blob/main/assets/goodreads-brands-solid-full.svg" alt="SuyogMahajan" height="30" width="40" /></a>
+<a href="https://www.goodreads.com/suyogmahajan" target="blank"><img align="center" src="https://github.com/SuyogMahajan/SuyogMahajan/blob/main/assets/goodreads-brands-solid-full.svg" alt="SuyogMahajan" height="40" width="40" /></a>
 <a href="https://twitter.com/SuyogMahajan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SuyogMahajan16" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/suyog-mahajan-b49205202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyog mahajan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suyog_mahajan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@suyog_mahajan__" height="30" width="40" /></a>
