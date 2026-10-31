@@ -1,6 +1,6 @@
-<h1 align="center"> Hey, Suyog here !!👋>
-<h3 align="center">A passionate Open-Source Enthusiast</h3>
-<img align="right" alt="GIF" src=https://user-images.githubusercontent.com/86179143/195395254-40cd641a-b667-4a1a-b2be-d6ad91c68c0b.gif width="500" height="320" />
+<h1 align="center">DEVELOPER FOR FUN :) </h1>
+<!-- <h3 align="center"></h3> -->
+<!-- <img align="right" alt="GIF" src=https://user-images.githubusercontent.com/86179143/195395254-40cd641a-b667-4a1a-b2be-d6ad91c68c0b.gif width="500" height="320" /> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvirajjadhav1" /> </p> -->
 
